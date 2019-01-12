@@ -1,6 +1,6 @@
 # peha
 Power Efficient Home Automation
-
+(See my Wiki Tab above for whole process)
 -Devices=
 	AC
 	lights,fans
