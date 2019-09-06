@@ -1,5 +1,5 @@
-# peha
-Power Efficient Home Automation
+# Smart Power System
+Smart Power System
 (See my Wiki Tab above for whole process)
 -Devices=
 	AC
